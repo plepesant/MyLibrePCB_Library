@@ -1,0 +1,10 @@
+(librepcb_component_category e3d1c749-4810-4a01-9aaf-7285d7576b0d
+ (name "Gates, Inverters")
+ (description "")
+ (keywords "")
+ (author "plepesant")
+ (version "0.1")
+ (created 2023-10-15T23:59:21Z)
+ (deprecated false)
+ (parent 9212a13b-d12d-4d13-b2c3-07a6c86e5e5c)
+)
